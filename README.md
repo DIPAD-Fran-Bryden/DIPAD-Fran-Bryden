@@ -3,6 +3,7 @@
 ✨ [The Famous Intro to R course](https://department-for-transport.github.io/intro_R/)
 ✨ [R got you panicking? Emergency R](https://department-for-transport.github.io/emergency_r/)
 ✨ [Need best practice advice? The cookbook](https://department-for-transport.github.io/R-cookbook/index.html)
+✨ [You're an analyst manager who wants to steer your team right? The Strategic Reproducible Analysis Book](https://department-for-transport.github.io/reproducible_analysis_guidance/)
 
 ## My whole host of transport-related R packages:
 
