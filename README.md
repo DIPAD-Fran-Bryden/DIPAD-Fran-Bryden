@@ -1,9 +1,15 @@
 ## Want to learn about R? Check out my resources:
 
 ✨ [The Famous Intro to R course](https://department-for-transport.github.io/intro_R/)
+✨ [Tidy data for messy people](https://department-for-transport.github.io/tidy_data_workshop/)
 ✨ [R got you panicking? Emergency R](https://department-for-transport.github.io/emergency_r/)
 ✨ [Need best practice advice? The cookbook](https://department-for-transport.github.io/R-cookbook/index.html)
 ✨ [You're an analyst manager who wants to steer your team right? The Strategic Reproducible Analysis Book](https://department-for-transport.github.io/reproducible_analysis_guidance/)
+
+## Want to learn about BigQuery? Check out these DfT-resources from someone better at it than me!
+
+✨ [SQL and how to use it in BigQuery](https://department-for-transport.github.io/intro_sql_in_bigquery/)
+✨ [Want the best of both worlds? Connect R to BQ](https://department-for-transport.github.io/gcp_to_r/)
 
 ## My whole host of transport-related R packages:
 
