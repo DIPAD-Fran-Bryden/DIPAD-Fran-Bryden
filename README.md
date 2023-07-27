@@ -4,7 +4,7 @@
 ✨ [Tidy data for messy people](https://department-for-transport.github.io/tidy_data_workshop/)
 ✨ [R got you panicking? Emergency R](https://department-for-transport.github.io/emergency_r/)
 ✨ [Need best practice advice? The cookbook](https://department-for-transport.github.io/R-cookbook/index.html)
-✨ [You're an analyst manager who wants to steer your team right? The Strategic Reproducible Analysis Book](https://department-for-transport.github.io/reproducible_analysis_guidance/)
+✨ [You're an analyst manager who wants to steer your team right? The Strategic Reproducible Analysis Book](https://department-for-transport.github.io/strategic_reproducible_analysis/)
 
 ## Want to learn about BigQuery? Check out these DfT-resources from someone better at it than me!
 
