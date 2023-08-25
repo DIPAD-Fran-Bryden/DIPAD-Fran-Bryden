@@ -6,6 +6,8 @@
 
 ✨ [Become a charting wizard with the magical intermediate ggplot course](https://department-for-transport.github.io/ggplot_intermediate/)
 
+✨ [More of a practical learner? Learn R with practical examples on transport data](https://department-for-transport.github.io/learn_r_by_doing/)
+
 ✨ [R got you panicking? Emergency R](https://department-for-transport.github.io/emergency_r/)
 
 ✨ [Need best practice advice? The cookbook](https://department-for-transport.github.io/R-cookbook/index.html)
