@@ -2,6 +2,8 @@
 
 :books: [The Famous Intro to R course](https://department-for-transport.github.io/intro_R/)
 
+:books: [Git Zero to Github Hero with the Big Book of Git](https://department-for-transport.github.io/big_book_of_git/)
+
 :books: [Tidy data for messy people](https://department-for-transport.github.io/tidy_data_workshop/)
 
 :books: [Become a charting wizard with the magical intermediate ggplot course](https://department-for-transport.github.io/ggplot_intermediate/)
