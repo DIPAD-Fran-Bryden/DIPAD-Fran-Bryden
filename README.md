@@ -1,4 +1,4 @@
-## Want to learn about R? Check out my team's brilliant resources:
+## Want to learn about coding? Check out my team's brilliant resources:
 
 :books: [The Famous Intro to R course](https://department-for-transport.github.io/intro_R/)
 
