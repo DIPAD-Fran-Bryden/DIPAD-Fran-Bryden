@@ -16,7 +16,7 @@
 
 :books: [You're an analyst manager who wants to steer your team right? The Strategic Reproducible Analysis Book](https://department-for-transport.github.io/strategic_reproducible_analysis/)
 
-## Want to learn about BigQuery? Check out these DfT-resources from someone better at it than me!
+## Want to learn about GCP tools? We have resources on that too!
 
 :books: [SQL and how to use it in BigQuery](https://department-for-transport.github.io/intro_sql_in_bigquery/) 
 :books: [Want the best of both worlds? Connect R to BQ](https://department-for-transport.github.io/gcp_to_r/)
@@ -26,7 +26,6 @@
 :rocket: [The Transportverse](https://github.com/department-for-transport-public/transportverse) 
 🚌 [Bus Open Data Service](https://cran.r-project.org/package=bodsr) 
 🚏 [National Public Transport Access Nodes(NaPTAN)](https://cran.r-project.org/package=naptanr) 
-:monorail: [The package that started it all...mojspeakr](https://github.com/moj-analytical-services/mojspeakr)
 
 ## Shiny apps (past and present)
 
